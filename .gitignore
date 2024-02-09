@@ -1,0 +1,10 @@
+# vscode configuration
+.vscode/
+
+# go binary
+rss-aggregator
+
+# environment variables
+.env
+
+vendor
